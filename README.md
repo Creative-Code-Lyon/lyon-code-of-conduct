@@ -1,5 +1,7 @@
 # Lyon Code Of Conduct
 
+Inspired from [Berlin Code of Conduct](https://github.com/rubyberlin/code-of-conduct#readme)
+
 **requirments**
 - node.js
 
