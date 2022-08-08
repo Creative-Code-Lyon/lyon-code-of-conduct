@@ -11,7 +11,7 @@
 	<nav>
 		<ul>
 			<li  on:click={() => locale = locales.EN}>EN</li>
-			<li  on:click={() => locale = locales.FR}>FR</li>
+			<!--<li  on:click={() => locale = locales.FR}>FR</li>-->
 		</ul>
 	</nav>
 
